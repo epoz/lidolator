@@ -2,6 +2,8 @@
 
 A utility package in Python to convert [LIDO](https://lido-schema.org/) metadata from XML to other formats.
 
+You can test this library by [opening the test notebook on Google Collab](https://colab.research.google.com/github/epoz/lidolator/blob/main/test_samples.ipynb) where you can load some real-world sample data.
+
 Example:
 
 ```python
