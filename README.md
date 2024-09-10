@@ -41,3 +41,5 @@ To date we have found:
 - [Legacy Marburg Java Code](https://github.com/epoz/lido2crm_legacy)
 
 - [Mappings](https://cidoc-crm.org/Resources/mappings-between-lido-v1.0-and-cidoc-crm-v6.0-in-x3ml-ver.1) in [x3ml](https://github.com/isl/x3ml) See [publication](https://www.researchgate.net/publication/282122507_X3ML_Framework_An_effective_suite_for_supporting_data_mappings)
+
+- [Convert LIDO into CSV](https://github.com/alexander-winkler/LIDOrefine), enrich it in OpenRefine and convert it back into LIDO
