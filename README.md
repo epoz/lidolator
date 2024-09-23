@@ -30,6 +30,8 @@ The author of the package (@epoz) has contacted the CIDOC LIDO Working groups, a
 
 To date we have found:
 
+- 🔥 The latest update from Josef Heerz (NFDI4Objects) [Lido to RDF converter](https://github.com/nfdi4objects/lido-rdf-converter) is _very_ interesting. It applies the logic from the x3ml project (see below) in Python code.
+
 - [conversions by the Yale LUX team](https://github.com/ycba-cia/reconciliation/blob/ycba_master/scripts/builder_ycba.py) to [https://linked.art/](https://linked.art/) (thanks to Eric James et al)
 
 - [LIDO converter in the Hydra Scraper](https://github.com/digicademy/hydra-scraper/blob/main/helpers/convert.py) from Jonatan Steller
