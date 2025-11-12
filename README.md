@@ -45,3 +45,7 @@ To date we have found:
 - [Mappings](https://cidoc-crm.org/Resources/mappings-between-lido-v1.0-and-cidoc-crm-v6.0-in-x3ml-ver.1) in [x3ml](https://github.com/isl/x3ml) See [publication](https://www.researchgate.net/publication/282122507_X3ML_Framework_An_effective_suite_for_supporting_data_mappings)
 
 - [Convert LIDO into CSV](https://github.com/alexander-winkler/LIDOrefine), enrich it in OpenRefine and convert it back into LIDO
+
+## Examples in the wild
+
+At the National Gallery of Art, they support both systems, both [LIDO](https://data.ng.ac.uk/0F6J-0001-0000-0000?profile=lido) and [Linked Art](https://data.ng.ac.uk/0F6J-0001-0000-0000?profile=linked-art). Thanks to Rob Tice from [Knowledge Integration](https://www.k-int.com/) for the heads-up.
